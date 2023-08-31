@@ -1,7 +1,7 @@
 # fresh_import_map
 
-This is a small plugin for **[Fresh](https://fresh.deno.dev/)** that automatically generates an
-**import_map.json** file from a **deno.json** file.
+This is a small plugin for **[Fresh](https://fresh.deno.dev/)** that automatically 
+generates an **import_map.json** file from a **deno.json** file.
 
 ## Usage
 
