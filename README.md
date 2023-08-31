@@ -18,7 +18,5 @@ import dev from "$fresh/dev.ts";
 await dev(import.meta.url, "./main.ts");
 ```
 
-This will automatically generate a `tailwind.config.js` file based on your
-`twind.config.js` file, providing you with autcomplete for not only the
-**Tailwind** classes available, but any custom classes you define inside of your
-**Twind** config.
+This will automatically generate a `import_map.json` file based on your
+`deno.json` or `deno.jsonc` file.
